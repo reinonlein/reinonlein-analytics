@@ -7,3 +7,4 @@ export default defineConfig({
     directUrl: env('DIRECT_DATABASE_URL'),
   },
 });
+
